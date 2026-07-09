@@ -1,0 +1,11 @@
+# CoolNova Care Security Contact Information
+
+Contact: mailto:coolnovaappliancecare@gmail.com
+
+Expires: 2027-07-08
+
+Preferred-Languages: en, hi
+
+Canonical: https://www.coolnovacare.net/.well-known/security.txt
+
+Policy: https://www.coolnovacare.net/privacy-policy.html

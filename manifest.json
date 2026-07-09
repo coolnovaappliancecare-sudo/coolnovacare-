@@ -1,0 +1,19 @@
+{
+  "name": "CoolNova Care - Appliance Repair Services",
+  "short_name": "CoolNova Care",
+  "description": "Professional home appliance repair services across Haryana including AC, refrigerator, washing machine, microwave, geyser and water purifier repair.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0066ff",
+  "orientation": "portrait",
+  "lang": "en-IN",
+
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}

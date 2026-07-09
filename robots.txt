@@ -1,0 +1,36 @@
+# CoolNova Care Robots.txt
+
+User-agent: *
+
+Allow: /
+
+# Block private and unnecessary directories
+
+Disallow: /admin/
+Disallow: /private/
+Disallow: /backup/
+Disallow: /config/
+Disallow: /database/
+Disallow: /temp/
+Disallow: /test/
+
+
+# Block unnecessary query URLs
+
+Disallow: /*?utm_source=
+Disallow: /*?utm_medium=
+Disallow: /*?utm_campaign=
+Disallow: /*?session=
+Disallow: /*?replytocom=
+
+
+# Allow important website resources
+
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+
+# Sitemap Location
+
+Sitemap: https://www.coolnovacare.net/sitemap.xml
